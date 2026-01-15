@@ -28,6 +28,9 @@ function Header() {
           <div>
             <Link href="/mountain">Mountain info</Link>
           </div>
+          <div>
+            <Link href="/hotels">Hotels</Link>
+          </div>
         </nav>
       </div>
     </header>
